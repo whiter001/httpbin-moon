@@ -1,0 +1,13 @@
+import {
+  "moonbitlang/async" @async,
+  "moonbitlang/async/gzip" @gzip_stream,
+  "moonbitlang/async/http" @http,
+  "moonbitlang/async/io" @io,
+  "moonbitlang/async/process" @process,
+  "moonbitlang/core/encoding/base64" @base64,
+  "moonbitlang/core/encoding/utf8" @utf8,
+  "moonbitlang/core/env" @env,
+  "moonbitlang/core/json" @json,
+  "moonbitlang/core/random" @random,
+  "moonbitlang/core/string" @string,
+}

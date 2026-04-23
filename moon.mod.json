@@ -1,0 +1,17 @@
+{
+  "name": "whiter001/httpbin_moon",
+  "version": "0.1.0",
+  "deps": {
+    "moonbitlang/async": "0.18.1"
+  },
+  "preferred-target": "native",
+  "supported-targets": "+native",
+  "readme": "README.md",
+  "license": "Apache-2.0",
+  "keywords": [
+    "http",
+    "httpbin",
+    "moonbit"
+  ],
+  "description": "A small MoonBit httpbin-style server"
+}

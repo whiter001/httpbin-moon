@@ -1,0 +1,10 @@
+import {
+  "whiter001/httpbin_moon" @app,
+  "moonbitlang/async" @async,
+  "moonbitlang/async/http" @http,
+  "moonbitlang/async/socket" @socket,
+}
+
+options(
+  "is-main": true,
+)
